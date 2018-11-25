@@ -1,3 +1,3 @@
 # tests
 
-Repository made for learning and testing Github features
+Repository made for learning and testing Git and Github features
